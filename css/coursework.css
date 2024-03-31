@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.active{
+    background: rgb(79, 126, 35);
+    transform: translateY(-3px);
+    width: 100%;
+    display: inline-block;
+}
+
+body{
+    background-color:white;
+    /* min-height: 6000px; */
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.521);
+    backdrop-filter: blur(3px);
+}
+
+header .logo svg {
+    width: 80px;
+    transition: 0.3s;
+}
+
+header .logo svg:hover {
+    scale: 105%;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+
+header ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+header ul li #a {
+    width: 0%;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+header ul li #a:hover {
+    width: 100%;
+    background: rgb(79, 126, 35);
+    transform: translateY(-5px);
+}
+
+header ul li a svg{
+    width: 25px;
+    transition: 0.3s;
+    opacity: 70%;
+}
+
+header ul li a svg:hover{
+    scale: 110%;
+    opacity: 100%;
+}
+
+.heading{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(235, 235, 240, 1);
+    display: flex;
+    align-items: center;
+}   
+.text{
+    margin-left: 20%;
+}
+h1{
+    font-size: 3em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.parallax{
+    background-image: url(/CWork/image/pexels-skylar-kang-6207526.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+span{
+    font-weight: 600;
+}
+
+.down{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.left{
+    text-transform: uppercase;
+    font-size: 4em;
+    width: 700px;
+}
+.right{
+    width: 400px;
+}
+.Team{
+    background-color: rgba(235, 235, 240, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    height: 700px;
+    width: 300px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.479);
+    position: relative;
+
+}
+.photo img{
+    width: 200px;
+    /* margin-left: 50px; */
+    border-radius: 100%;
+    position: relative;
+    transition: 0.3s;
+    top: 50px;
+    
+}
+.details{
+    width: 100%;
+    /* width: 300px; */
+    position: absolute;
+    top: 300px;
+    text-align: center;
+}
+
+.ourteam{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.separate h1{
+text-align: center;
+text-transform: uppercase;   
+
+}
+
+.hr{
+    margin-top: 50px;
+}
+.page{
+    background-color:bisque;
+    width: 100%;
+    height: 400px;
+    /* display: flex; */
+    
+    /* align-items: center; */
+    margin-top: 50px;
+}
+
+.first{
+    display: flex;
+    justify-content: center;    
+    text-transform: uppercase;
+    font-size: 1em;
+    /* margin-top: 0px; */
+}
+.first h1{
+    font-weight: 600;
+    /* font-size: 2em; */
+}
+.description{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    padding-top: 20px;
+
+}
+.description h1{
+    border-right: 2px solid black;
+     padding-right:50px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     font-weight: 500;
+
+}
+
+.description h1:last-of-type{
+    border: none;
+}
+
+.description svg{
+    width: 50px;
+   
+    
+}
+
+
+.description span{
+    font-weight:300;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    color: rgb(113, 92, 66);
+}
+.photo img:hover{
+    width: 250px;
+    background: rgba(190, 11, 11, 0.81);
+    /* transform: translateY(-2px); */
+}
+
+.bottom{
+
+    /* margin-left: 50%; */
+    display: flex;
+    /* padding-left: 50%; */
+    
+
+}
+
+.bottom,.copyright{
+    padding-top: 20px;
+    font-size: 14px;
+    /* font-family:'Times New Roman', Times, serif; */
+    color:black;
+    justify-content:right;
+    border: none;
+    padding-right: 100px;
+    
+}
+
+.bottom,.contact{
+    padding-top: 20px;
+    font-size: 14px;
+    /* font-family:'Times New Roman', Times, serif; */
+    color:black;
+    padding-right: 40px;
+    border: none;
+    text-decoration: none;
+}
+
+.contact a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.hand svg{
+    width: 60px;
+    margin-left: 10px;
+}
+    
+ .slider{
+    background-color:rgba(250, 248, 245, 0.981);
+    width: 100%;
+    height: 300px;
+    /* display: flex; */
+    
+    /* align-items: center; */
+    margin-top: 50px;
+    
+}
+.break{
+    margin-top: 40px;
+   border-top: 2px solid black;
+}
+
+.step{
+    line-height: 2.5em;
+    /* background-color:rgba(250, 248, 245, 0.981); */
+    margin-left: 250px;
+    /* font-family:madefor-display-bold, Arial, Helvetica, sans-serif; */
+    /* text-transform: uppercase; */
+    font-size: 35px;
+    width: 700px;
+}
+
+.hrlast{
+    margin-top:2cm;
+}
+
+.wrapper{
+    
+    /* background-color:red; */
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    padding: 0px;
+    /* width: 700px; */
+    list-style: none;
+    
+    
+}
+
+.icon{
+    /* display: flex; */
+    margin-left: 40px;
+    /* background-color: black; */
+    width: 700px;
+    margin-right: 20%;
+    justify-content: center;
+    
+}
+
+.icon svg{
+    width: 20px;
+}
+
+.log{
+    border-radius: 100px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    outline: none;
+}
+
+.profile svg{
+    
+    margin-top: 30%;
+    transition: 0.2s;
+
+}
+.profile svg:hover{
+    scale: 125%;
+}
+
+.profile a:hover{
+    color: white;
+    /* width: 50px;
+    height: 100px;
+    transform: translateY(-2px);
+    transition: 5s; */
+}
+
+
+.wrapper ul li{
+    margin-right: 20px;
+}
+
+.bottom, .abt{
+    padding-top: 20px;
+    font-size: 14px;
+    color:black;
+    padding-right: 40px;
+    border: none;
+}
+.abt a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    border-radius: 20px;
+    padding: 10px 20px;
+    transition: 0.3s;
+    font-size: 1em;
+}
+button:hover{
+    scale: 110%;
+    background: black;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0 0 15px black;
+}

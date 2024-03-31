@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+body {
+    /* min-height: 100vh; */
+    min-height: 6000px;
+
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* padding: 10px 80px; */
+    /* display: flex; */
+
+    justify-content: space-between;
+    /* align-items: center; */
+    z-index: 1000;
+    /* background: rgba(255, 255, 255, 0.521);
+    backdrop-filter: blur(3px); */
+
+}
+
+header a svg {
+    width: 300px;
+    transition: 0.3s;
+    float: left;
+    position: relative;    
+    top: 15px;
+    left: 15px;
+}
+
+header a svg:hover {
+    scale: 110%;
+}
+
+header ul {
+    display: flex;
+    float: right;   
+    /* justify-content: center;
+    align-items: center; */
+    background: rgba(82, 82, 82, 0.315);
+    height: 800px;
+    padding: 0px 10px;
+    backdrop-filter: blur(8px);;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 50px;
+    margin-top: 10px;
+    position: relative;
+    right: 20px;
+    top: 15px;
+}
+
+
+header ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+header ul li #a {
+    width: 0%;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+header ul li #a:hover {
+    width: 100%;
+    background: rgb(118, 187, 53);
+    transform: translateY(-5px);
+}
+
+/* header ul li a{
+   text-decoration: none;
+   color: black;
+   padding: 5px 10px;
+   border-radius: 20px;
+} */
+
+/* header ul li a:hover,
+header ul li a.active
+{
+   background:black;
+   color: white;
+} */
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+section img {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    z-index: 100;
+}
+
+section #table {
+    z-index: 200;
+}
+
+#prlx {
+    font-family: 'Fuzzy Bubbles', cursive;
+    position: absolute;
+    font-size: 5em;
+    z-index: 150;
+    margin-right: 850px;
+    color: rgb(118, 187, 53);
+    white-space: nowrap;
+    transform: translateY(600px);
+    text-shadow: 5px 5px rgb(0, 0, 0);
+
+}
+
+section .btn {
+    z-index: 3000;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    right: 350px;
+    top: 700px;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 1.5em;
+    transition: 0.3s;
+    
+}
+
+.btn:hover {
+    box-shadow: 10px 10px 8px 0 black;
+
+    transform: translateY(-5px);
+
+}
+
+.scroll {
+    z-index: 200;
+}
+
+.scroll h1 {
+    padding: 50px;
+    text-align: center;
+}
+.b svg{
+    width: 30px;
+    top: 5px;
+}
+
+section a svg{
+    position: fixed;
+    z-index: 50000;
+    display: inline-block;
+    padding: 5px 10px;
+    width: 100px;
+    bottom: 15px;
+    right: 15px;
+    opacity: 60%;
+    transition: 0.2s;
+}
+
+section a svg:hover{
+    opacity: 80%;
+    scale: 110%;
+}

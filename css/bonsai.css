@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');/*importing a font into my css*/
+
+* {/* "*" tag to uses its style in all its elements */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+body {/* applying style in its body */
+    min-height: 2000px;
+    overflow-x: hidden;
+    background-color:rgb(245 245 247);
+
+}
+
+header {/* styling navigation bar */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.521);
+    backdrop-filter: blur(3px);
+}
+
+header .logo svg {
+    width: 80px;
+    transition: 0.3s;
+}
+
+header .logo svg:hover {/* hover effect for logo in navigation bar */
+    scale: 105%;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+
+header ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+header ul li #a {
+    width: 0%;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+header ul li #a:hover {/* hover effect for elements in navigation bar */
+    width: 100%;
+    background: rgb(79, 126, 35);
+    transform: translateY(-3px);
+}
+
+header ul li a svg{
+    width: 25px;
+    transition: 0.3s;
+    opacity: 70%;
+}
+
+header ul li a svg:hover{
+    scale: 110%;
+    opacity: 100%;
+}
+
+.checked{
+    color: orange;
+}
+.active{
+    background: rgb(79, 126, 35);
+    transform: translateY(-3px);
+    width: 100%;
+    display: inline-block;
+}
+
+/* header a #img{
+    position: absolute;
+    left: 30px;
+    top: 5px;
+    width: 80px;
+    height: 60px;
+} */
+
+section.section1 {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    image-rendering: pixelated;
+}
+
+img {
+    position: absolute;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+    object-fit: cover;
+}
+
+h1#prlx {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    font-size: 9em;
+    color: rgb(6 67 57);
+    -webkit-text-stroke: 3px rgba(0, 0, 0, 0.466);
+    text-shadow: 0 0 10px #000000;
+    text-rendering: optimizeSpeed;
+}
+
+section #prlx{
+    margin-top: 245px;
+}
+
+section .btn {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 830px;
+    top: 600px;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 1.5em;
+    transition: 0.3s;
+    box-shadow: 10px 10px 8px 0 black;
+    /* mix-blend-mode: darken; */
+}
+
+.btn:hover {
+    transform: translateY(-5px);
+}
+
+.text{
+    height: 450px;
+    position: relative;
+}
+
+.lr{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 50px;
+}
+.text h1{
+    font-size: 4em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text p{
+    width: 800px;
+    text-align: center;
+    /* margin: auto; */
+    font-size: 1.3em;
+}
+.text h2{
+    /* display: flex; */
+    /* justify-content: center; */
+    position: absolute;
+    right: 283px;
+    bottom: 60px;
+}
+.text h2 a{
+    text-decoration: none;
+    color: rgb(7,67,56);
+    text-transform: uppercase;
+    /* display: flex; */
+    /* justify-content: center; */
+    font-size: 1.5em;
+    margin-top: 70px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.text h2 a:hover{ 
+    border-radius: 35px;
+    background: black;
+    color: white;
+    transform: scale(110%);
+    box-shadow: 0 0 15px black;
+}
+
+.gap{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background:linear-gradient(to right, rgb(255,249,222),rgb(255 198 156) );
+    border-top: 2px solid rgb(221, 151, 0);
+    border-bottom: 2px solid rgb(221, 151, 0);
+    align-items: center;
+}
+h1#move{
+    position: absolute;
+    text-transform: uppercase;
+    /* color: rgb(0, 0, 0); */
+    color: rgb(6 67 57);
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.466);
+    /* -webkit-text-stroke: 1px black; */
+    font-weight: 500;
+    font-size: 1.5em;
+    text-shadow: 0 0 3px #000000;
+
+}
+
+div.text{
+    background:linear-gradient(to right, rgb(255,249,222),rgb(255 198 156) ) ;
+}
+
+.products .size img{
+    display: flex;
+    justify-content: center;
+    width: 280px;
+    height: 380px;
+    position: absolute;
+    transition: 0.2s;
+    top: 0;
+    left: 0;    
+    background: black;
+}
+.products .size img:hover{
+    display: flex;
+    justify-content: center;
+    width: 260px;
+    height: 340px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 15px;
+}
+
+
+.products .size{
+    display: flex;
+    justify-content: center;
+    width: 280px;
+    height: 440px;
+    background-color: rgb(235 235 240);
+    position: relative;
+    transition: 0.2s;
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
+.products .size:hover{ 
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.397);
+    border-radius: 20px;
+    
+}
+
+.products{
+    position: relative;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.name h3{
+    position: absolute;
+    bottom: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+
+

@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');/*importing a font into my css*/
+
+* { /* "*" tag to uses its style in all its elements */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+body {/* applying style in its body */
+    min-height: 2000px;
+    overflow-x: hidden;
+    background-color:rgb(245 245 247);
+
+}
+.active{
+    background: rgb(79, 126, 35);
+    transform: translateY(-3px);
+    width: 100%;
+    display: inline-block;
+}
+
+header {/* styling navigation bar */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.521);
+    backdrop-filter: blur(3px);
+}
+
+header .logo svg {
+    width: 80px;
+    transition: 0.3s;
+}
+
+header .logo svg:hover {/* hover effect for logo in navigation */
+    scale: 105%;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+
+header ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+header ul li #a {
+    width: 0%;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+header ul li #a:hover {/* hover effect for navigation elements */
+    width: 100%;
+    background: rgb(79, 126, 35);
+    transform: translateY(-5px);
+}
+
+header ul li a svg{
+    width: 25px;
+    transition: 0.3s;
+    opacity: 70%;
+}
+
+header ul li a svg:hover{
+    scale: 110%;
+    opacity: 100%;
+}
+
+
+section .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 70px;
+}
+
+section .title h1{
+    font-weight: 300;
+    font-size: 6em;
+    pointer-events: none;
+}
+
+.products .size img{
+    width: 280px;
+    height: 380px;
+    position: absolute;
+    transition: 0.2s;
+    top: 0;    
+    background: black;
+}
+.products .size img:hover{
+    width: 260px;
+    height: 340px;
+    position: absolute;
+    top: 10px;
+    border-radius: 15px;
+}
+
+
+.products .size{
+    display: flex;
+    justify-content: center;
+    width: 280px;
+    height: 530px;
+    background-color: rgb(235 235 240);
+    position: relative;
+    transition: 0.2s;
+    margin-top: 50px;
+    margin-right: 20px;
+    /* border: 0.5px solid black; */
+}
+.products .size:hover{
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.397);
+    border-radius: 20px;
+    
+}
+
+.products{
+    position: relative;
+    top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.name h3{
+    position: absolute;
+    bottom: 120px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.rate{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: space-between; */
+    position: absolute;
+    bottom: 75px;
+    left: 53px;
+    /* position: relative; */
+}
+#stars{
+    position: absolute;
+    left: 38px;
+    bottom: -22px;
+}
+.rate span{
+    text-decoration: line-through;
+}
+.name p{
+    margin-right: 20px;
+}
+
+.buy button{
+    text-transform: uppercase;
+}
+
+.size .buy{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: 13px;
+
+}
+.btn1{
+   margin-right: 10px;
+   transition: 0.1s;
+   padding: 5px 25px;
+}
+.btn1:hover{
+    background: rgb(79, 126, 35);
+    scale: 110%;
+    color: white;
+}
+
+.btn2{
+    padding: 5px 20px;
+    transition: 0.1s;
+}
+.btn2:hover{
+    background: rgb(172 55 52);
+    scale: 110%;
+    color: white;
+}
+.size .buy button{
+    /* padding: 5px 15px; */
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.checked{
+    color: orange;
+}
+
+.cart{
+    border: 1px solid black;
+    border-radius: 15px;
+    z-index: 1;
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    top: 90px;
+    left: 72%;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+}
+.cart h1{
+    text-transform: uppercase;
+    /* text-align: center; */
+    font-size: 4em;
+}
+.cart h3{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.cart button{
+    position: absolute;
+    text-transform: uppercase;
+    bottom: 20px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-size: 1.2em;
+}
+.cart button:hover{
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    box-shadow: 0 0 10px black;
+}
+#thank{ /* styling element which uses id attribute */
+    position: absolute;
+    font-weight: 300;
+    bottom: 80px;
+}
+
