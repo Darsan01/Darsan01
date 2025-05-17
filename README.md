@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer who enjoys building 
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative startups**.
 - 🤔 I’m looking for help with **DevOps practices** and **system architecture**.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**, and **REST APIs**.
-- 📫 How to reach me: [your.email@example.com] • [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+- 📫 How to reach me: [www.darshankhanal.com] • [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems with code and exploring new developer tools in my free time.
 
