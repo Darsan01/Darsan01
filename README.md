@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer who enjoys building 
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative startups**.
 - 🤔 I’m looking for help with **DevOps practices** and **system architecture**.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**, and **REST APIs**.
-- 📫 How to reach me: [www.darshankhanal.com] • [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+- 📫 How to reach me: [www.darshankhanal.com] • [LinkedIn](https://www.linkedin.com/in/darsan-khanal-16a709309/) • [Portfolio](https://yourportfolio.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems with code and exploring new developer tools in my free time.
 
@@ -20,9 +20,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer who enjoys building 
 ### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
