@@ -1,5 +1,3 @@
-I understand you'd like a refined and professional version of your GitHub profile intro that feels fresh and distinct. Below, I've crafted a polished, professional, and visually appealing version tailored for you. This version enhances clarity, emphasizes your expertise, and maintains a welcoming tone—perfect for making a strong impression on visitors like recruiters, collaborators, or fellow developers.
-
 ---
 
 ## Greetings! I’m Darsan Khanal
@@ -16,7 +14,6 @@ Welcome to my GitHub! I’m a committed **full-stack developer** passionate abou
 - 🛠️ **Skill Enhancement**: Exploring **DevOps practices** and **scalable architectures** to optimize development processes and system performance.
 - 💡 **Ask Me About**: I’m happy to discuss **JavaScript**, **React**, **Node.js**, **MongoDB**, or **RESTful APIs**—let’s exchange ideas!
 - 📬 **Get in Touch**: Connect with me via my [website](https://www.darshankhanal.com), [LinkedIn](https://www.linkedin.com/in/darsan-khanal-16a709309/), or [portfolio](https://yourportfolio.com).
-- 🙋 **Pronouns**: He/Him
 - ✨ **Fun Fact**: I love diving into new tools and transforming creative concepts into working code that makes an impact.
 
 ---
@@ -76,11 +73,3 @@ I’d love to hear from you—reach out through any of these channels:
 Thanks for stopping by! I’m always eager to explore new opportunities, share knowledge, and collaborate on exciting projects. Let’s create something extraordinary together—feel free to reach out! 🚀
 
 ---
-
-### How to Customize This:
-- **Projects**: Swap out the placeholder project names and links with your real projects to showcase your achievements.
-- **Links**: Double-check that your website, LinkedIn, and portfolio URLs are correct and functional.
-- **Username**: Replace `Darsan01` with your actual GitHub username for accurate stats.
-- **Extras**: Add more tech badges (e.g., **PostgreSQL**, **Redux**) or tweak the "Fun Fact" to reflect your personality.
-
-This version is clean, professional, and designed to stand out while keeping everything easy to read and navigate. Let me know if you’d like further tweaks! 😊
