@@ -23,26 +23,6 @@ Welcome to my GitHub! I’m a passionate full-stack developer focused on buildin
 ⚙️ Tech Stack & Tools
 
 Here’s what I use to bring projects to life:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 📈 GitHub Stats
 
 Check out my contributions and coding patterns:
@@ -67,13 +47,13 @@ Here are a few highlights of my work:
 
 Reach out — I love meeting new collaborators:
 
-✉️ Email: contact@darshankhanal.com
+✉️ Email: darshankhanal8@gmail.com.com
 
-🌐 Website: darshankhanal.com
+🌐 Website: darsankhanal.com.np
 
 💼 LinkedIn: Darsan Khanal
 
-🎨 Portfolio: yourportfolio.com
+🎨 Portfolio: darsankhanal.com.np
 
 🚀 Final Note
 
