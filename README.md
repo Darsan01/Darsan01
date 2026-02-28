@@ -47,7 +47,7 @@ Here are a few highlights of my work:
 
 Reach out — I love meeting new collaborators:
 
-✉️ Email: darshankhanal8@gmail.com.com
+✉️ Email: darsankhanal8@gmail.com
 
 🌐 Website: darsankhanal.com.np
 
