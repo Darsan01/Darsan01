@@ -1,32 +1,150 @@
-👋 Hello! I’m Darsan Khanal
-Welcome to my GitHub! I’m a passionate full-stack developer focused on building robust, scalable, and user-friendly software that solves real-world problems with creativity and precision.
+💻 Darsan Khanal
+Full-Stack Developer | Software Engineer | Tech Enthusiast
+
+👋 Hello! Welcome to my GitHub profile.
+I'm a passionate Full-Stack Developer who enjoys building scalable, efficient, and user-friendly software that solves real-world problems.
+
+I love turning creative ideas into real working applications using modern technologies.
+
 🌟 About Me
-🔍 Current Focus: Crafting modern web and mobile applications with seamless UX and cutting-edge frameworks.
-📚 Learning: Deepening skills in Next.js, TypeScript, and cloud platforms like AWS and GCP.
-🤝 Collaboration Goals: Contributing to open-source projects and innovative initiatives that push boundaries.
-🛠️ Skills in Progress: Exploring DevOps practices, scalable architectures, and performance optimization.
-💡 Ask Me About: JavaScript, React, Node.js, MongoDB, REST APIs — I love exchanging ideas!
-📬 Connect With Me: Website
- | LinkedIn
- | Portfolio
-✨ Fun Fact: I thrive on turning creative ideas into working code that impacts people.
-⚙️ Tech Stack & Tools
-Here’s what I use to bring projects to life:
-📈 GitHub Stats
-Check out my contributions and coding patterns:
+
+🔭 Current Focus: Building modern web and cross-platform applications
+
+🌱 Currently Learning: Next.js, TypeScript, Cloud (AWS & GCP)
+
+🤝 Open to Collaborate: Open-source projects and innovative startups
+
+🛠 Exploring: DevOps, scalable architectures, and performance optimization
+
+💬 Ask Me About:
+JavaScript, React, Node.js, MongoDB, REST APIs, Laravel, .NET
+
+⚡ Fun Fact: I enjoy turning complex ideas into clean, maintainable code.
+
+⚙️ Tech Stack
+💻 Programming Languages
+
+C#
+
+JavaScript
+
+PHP
+
+SQL
+
+🌐 Web Development
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Laravel
+
+ASP.NET Core MVC
+
+REST APIs
+
+📱 Mobile Development
+
+.NET MAUI
+
+🗄 Databases
+
+MySQL
+
+SQLite
+
+MongoDB
+
+🛠 Tools & Technologies
+
+Git & GitHub
+
+Visual Studio
+
+VS Code
+
+XAMPP
+
+Postman
+
+Stripe Payment Integration
+
+☁ Cloud & DevOps
+
+AWS Cloud Fundamentals
+
+CI/CD Basics
+
+📊 GitHub Stats
+
 🏆 Featured Projects
-Here are a few highlights of my work:
-🔗 Project 1 Name
- – A responsive web app built with React & Node.js for smooth performance and intuitive UX.
-🔗 Project 2 Name
- – A mobile-first solution powered by MongoDB with real-time data handling.
-🔗 Project 3 Name
- – An open-source Next.js tool designed to boost developer productivity and streamline workflows.
-📲 Let’s Connect
-Reach out — I love meeting new collaborators:
-✉️ Email: darsankhanal8@gmail.com
-🌐 Website: https://darsankhanal.com.np/
-💼 LinkedIn: https://www.linkedin.com/in/darsan-khanal-16a709309/
-🎨 Portfolio: https://darsankhanal.com.np/
+📚 EduFlow – School Management System
+
+Laravel-based school management platform with:
+
+Student admission system
+
+Attendance tracking
+
+Timetable management
+
+Role-based authentication
+
+🔗 https://github.com/Darsan01/FYP
+
+📖 BookHive – Library Management System
+
+A .NET MVC application for managing library inventory and book data.
+
+Technologies used:
+
+C#
+
+ASP.NET MVC
+
+SQL Database
+
+🔗 https://github.com/Darsan01/BookHivee
+
+💰 Expense Tracker App
+
+Cross-platform mobile application built with .NET MAUI
+
+Features:
+
+Expense tracking
+
+Category management
+
+Monthly summaries
+
+SQLite database
+
+🔗 https://github.com/Darsan01/ExpenseTrackerApp
+
+📫 Connect With Me
+
+📧 Email
+darsankhanal696@gmail.com
+
+🌐 Website
+https://darsankhanal.com.np
+
+💼 LinkedIn
+https://www.linkedin.com/in/darsan-khanal-16a709309
+
+💻 GitHub
+https://github.com/Darsan01
+
 🚀 Final Note
-Thanks for visiting! I’m always exploring new tech, sharing knowledge, and building innovative solutions. Let’s create something amazing together!
+
+Thank you for visiting my GitHub profile!
+
+I’m always exploring new technologies, contributing to projects, and building innovative solutions.
+
+If you have an idea or collaboration opportunity, feel free to reach out.
+
+Let's build something amazing together! 🚀
