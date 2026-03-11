@@ -49,11 +49,11 @@ Reach out — I love meeting new collaborators:
 
 ✉️ Email: darsankhanal8@gmail.com
 
-🌐 Website: darsankhanal.com.np
+🌐 Website: https://darsankhanal.com.np/
 
-💼 LinkedIn: Darsan Khanal
+💼 LinkedIn: https://www.linkedin.com/in/darsan-khanal-16a709309/
 
-🎨 Portfolio: darsankhanal.com.np
+🎨 Portfolio: https://darsankhanal.com.np/
 
 🚀 Final Note
 
