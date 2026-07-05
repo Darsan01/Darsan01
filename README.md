@@ -23,10 +23,10 @@ Hi, I'm **Darsan Khanal**, a passionate developer who enjoys building scalable a
 ---
 
 ##  Connect With Me
+
  Email: darsankhanal696@gmail.com  
  Portfolio: https://darsankhanal.com.np  
- LinkedIn: https://www.linkedin.com/in/darsan-khanal-16a709309  
- GitHub: https://github.com/Darsan01
+ LinkedIn: https://www.linkedin.com/in/darsan-khanal-16a709309 
  Stackoverflow: https://stackoverflow.com/users/28225044/darsan-khanal
 ---
  *Always learning, building, and improving.*
