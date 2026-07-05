@@ -20,9 +20,7 @@ Hi, I'm **Darsan Khanal**, a passionate developer who enjoys building scalable a
 **Frontend:** HTML5, CSS3, Bootstrap  
 **Databases:** MySQL, SQLite, MongoDB  
 **Tools:** Git, GitHub, VS Code, Postman, XAMPP
-
 ---
-
 
 ##  Connect With Me
  Email: darsankhanal696@gmail.com  
@@ -30,9 +28,7 @@ Hi, I'm **Darsan Khanal**, a passionate developer who enjoys building scalable a
  LinkedIn: https://www.linkedin.com/in/darsan-khanal-16a709309  
  GitHub: https://github.com/Darsan01
  Stackoverflow: https://stackoverflow.com/users/28225044/darsan-khanal
-
 ---
-
  *Always learning, building, and improving.*
  ....
 ....
