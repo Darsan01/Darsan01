@@ -43,10 +43,6 @@
 ---
 
 
-GitHub treats everything between the three backticks as JavaScript code, so it displays a large code box.
-
-Replace that section with a normal README section like this:
-
 ```markdown
 ## 👨‍💻 About Me
 
