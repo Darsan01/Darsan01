@@ -56,14 +56,14 @@ Hi, I'm **Darsan Khanal**, a Full-Stack Developer and Software Engineer who enjo
 - Work with databases and cloud technologies
 - Turn ideas into practical software solutions
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Next.js
 - TypeScript
 - Amazon Web Services
 - Google Cloud Platform
 
-### 💻 Technologies
+### Technologies
 
 - Laravel
 - ASP.NET Core MVC
@@ -72,7 +72,7 @@ Hi, I'm **Darsan Khanal**, a Full-Stack Developer and Software Engineer who enjo
 - PHP
 - SQL
 
-### 🤝 Collaboration
+### Collaboration
 
 I am open to contributing to open-source projects and collaborating on web, mobile and software-development projects.
 
