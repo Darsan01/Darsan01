@@ -42,38 +42,42 @@
 
 ---
 
+
+GitHub treats everything between the three backticks as JavaScript code, so it displays a large code box.
+
+Replace that section with a normal README section like this:
+
+```markdown
 ## 👨‍💻 About Me
 
-```javascript
-const darsan = {
-  name: "Darsan Khanal",
-  role: "Full-Stack Developer and Software Engineer",
+Hi, I'm **Darsan Khanal**, a Full-Stack Developer and Software Engineer who enjoys building modern, scalable and user-friendly applications.
 
-  interests: [
-    "Web Application Development",
-    "Cross-Platform Mobile Applications",
-    "Backend Development",
-    "REST API Development",
-    "Cloud Computing"
-  ],
+### 🚀 What I Do
 
-  currentlyLearning: [
-    "Next.js",
-    "TypeScript",
-    "Amazon Web Services",
-    "Google Cloud Platform"
-  ],
+- Build modern web applications
+- Develop cross-platform mobile applications
+- Create backend systems and REST APIs
+- Work with databases and cloud technologies
+- Turn ideas into practical software solutions
 
-  technologies: [
-    "Laravel",
-    "ASP.NET Core MVC",
-    ".NET MAUI",
-    "JavaScript",
-    "PHP",
-    "SQL"
-  ],
+### 🌱 Currently Learning
 
-  collaboration: "Open-source and software development projects",
+- Next.js
+- TypeScript
+- Amazon Web Services
+- Google Cloud Platform
 
-  motto: "Always learning, building and improving"
-};
+### 💻 Technologies
+
+- Laravel
+- ASP.NET Core MVC
+- .NET MAUI
+- JavaScript
+- PHP
+- SQL
+
+### 🤝 Collaboration
+
+I am open to contributing to open-source projects and collaborating on web, mobile and software-development projects.
+
+> Always learning, building and improving.
