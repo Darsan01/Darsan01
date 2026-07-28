@@ -44,11 +44,11 @@
 
 
 ```markdown
-## 👨‍💻 About Me
+About Me
 
 Hi, I'm **Darsan Khanal**, a Full-Stack Developer and Software Engineer who enjoys building modern, scalable and user-friendly applications.
 
-### 🚀 What I Do
+What I Do
 
 - Build modern web applications
 - Develop cross-platform mobile applications
