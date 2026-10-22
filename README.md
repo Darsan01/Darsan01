@@ -64,7 +64,7 @@ Hi, I'm **Darsan Khanal**, a Full-Stack Developer and Software Engineer who enjo
 - Google Cloud Platform
 
 ### Technologies
-
+- Python
 - Laravel
 - ASP.NET Core MVC
 - .NET MAUI
